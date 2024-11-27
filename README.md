@@ -1,4 +1,4 @@
-<div class="masterhead-image"> <img  width="100%" height="300px" src="https://th.bing.com/th/id/OIP.4czEg8s2a3jg9jInnlE2EQAAAA?rs=1&pid=ImgDetMain" alt="masterhead image"></div>
+<div class="masterhead-image"> <img  width="100%" height="300px" src="https://miro.medium.com/v2/resize:fit:1140/0*Bz2hFBHHFz8OTkH0.jpeg" alt="masterhead image"></div>
 <h1 align="center">Hi 👋, I'm Rabia.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/89/d0/d6/89d0d6816bb1755edcd9e4f8464010b5.jpg">
