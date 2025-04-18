@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/89/d0/d6/89d0d6816bb1755edcd9e4f8464010b5.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiaabdulrauf&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaabdulrauf" /> </p>
 
-- 💬 Ask me about **HTML, CSS and Bootstrap.**
+- 💬 Ask me about **HTML, CSS, Javascript, Tailwind, SCSS, and Bootstrap.**
 
 - 📫 How to reach me **rabiaabdulrauf18@gmail.com**
 
